@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "AI Resume Analyzer",
+    "slug": "ai-resume-analyzer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "resume-analyzer",
+    "plugins": ["expo-document-picker", "expo-secure-store"],
+    "android": {"package": "com.ravindra.resumeanalyzer"},
+    "ios": {"bundleIdentifier": "com.ravindra.resumeanalyzer"}
+  }
+}
